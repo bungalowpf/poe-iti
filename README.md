@@ -1,2 +1,2 @@
-# bungalow-poeiti.github.io
+# https://bungalowpf.github.io/poe-iti/
 Site bungalow
